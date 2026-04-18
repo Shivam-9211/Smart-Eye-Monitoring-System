@@ -11,7 +11,3 @@
 - OpenCV
 - MediaPipe
 - Tkinter
-
-## How to Run
-pip install opencv-python mediapipe
-python Eyes_monitoring_system.py
